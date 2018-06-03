@@ -1,0 +1,31 @@
+[ {
+  "name" : "hello",
+  "url" : "http://localhost:4712",
+  "id" : "1ec39cc9-182c-4627-b3fe-8d9856648b43",
+  "status" : "FAIL",
+  "lastCheck" : "2018-06-03T19:17:19.315+02:00"
+}, {
+  "name" : "lajban",
+  "url" : "http://localhost:8310",
+  "id" : "1329646d-4bbf-49f6-bfb3-5f1746753d27",
+  "status" : "FAIL",
+  "lastCheck" : "2018-06-03T19:17:19.316+02:00"
+}, {
+  "name" : "timeout",
+  "url" : "http://localhost:4712/timeout",
+  "id" : "2e711432-6385-4dd0-9b2f-65dc52f4bb65",
+  "status" : "FAIL",
+  "lastCheck" : "2018-06-03T19:17:19.316+02:00"
+}, {
+  "name" : "test",
+  "url" : "http://localhost:4712",
+  "id" : "b019ffd8-8919-495c-a125-acbab5753bf4",
+  "status" : "FAIL",
+  "lastCheck" : "2018-06-03T19:17:19.316+02:00"
+}, {
+  "name" : "failer",
+  "url" : "http://localhost:4712/notok",
+  "id" : "f00186eb-7cb0-4a17-83ce-5a77ce13d307",
+  "status" : "FAIL",
+  "lastCheck" : "2018-06-03T19:17:19.316+02:00"
+} ]
