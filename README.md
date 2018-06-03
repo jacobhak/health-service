@@ -47,7 +47,7 @@ The test server listens on port 4712
 ## Additional notes
 
 Time spent:
-
+```
 |---------------+--------|
 | *Total time*  | *6:39* |
 |---------------+--------|
@@ -56,3 +56,4 @@ Time spent:
 | Web client    |   1:18 |
 | Prettify UI   |   0:57 |
 | Documentation |   0:35 |
+```
